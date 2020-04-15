@@ -1,3 +1,3 @@
-module github.com/zhou27/fdfs_client
+module github.com/ssdev-zhou/fdfs_client
 
 go 1.13
